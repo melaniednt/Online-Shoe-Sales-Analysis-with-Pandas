@@ -3,3 +3,4 @@ Analyze a dataset of 10,000 women's shoes sold online using Pandas. This project
 
 
 Binder link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melaniednt/Online-Shoe-Sales-Analysis-with-Pandas/HEAD)
